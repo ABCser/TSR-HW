@@ -1,0 +1,7 @@
+/ANIMALS.iml
+*.xml
+*.txt
+*.o
+/.idea/.gitignore
+/out/*
+
